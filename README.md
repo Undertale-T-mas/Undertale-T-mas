@@ -1,51 +1,62 @@
-## T-mas API
+# Hi there 👋, I'm Le Xu
 
-### Getting Started:
-- 一只 ACMer x 音游人 x 着色器艺术家
-- 来玩咱的游戏 Welcome to Rhythm Recall!
-- 来找咱哇>w<
+🎓 **Junior** in Computer Science @ East China Normal University  
+🏆 **ICPC EC Final 2024 Silver Medalist**  
+🎮 Graphics programmer · Real-time rendering · Shader enthusiast  
+💼 Current intern @ Unity China
 
-项目     | 值
--------- | -----
-QQ  | 480642510
-Email  | 480642510@qq.com
-WeChat  | tmas18770002770
+---
 
+## 🔭 I’m currently working on
 
-### API Reference:
+- **浅水方程流体模拟** – OpenGL Compute Shader, 实时水波动画  
+- **CAD 几何管线设计** – 嵌套二分法 & 相贯线处理 (科研项目)  
 
-    嗯...想从咱这里获得帮助嘛 看这里喔 
-    静态类 `T_mas.Help` 方法（调用代价按照已从低到高排序）：
+---
 
-方法名 | 参数名 | 返回值 | 解释
-:------: |:-----: |:-----: | ------------------------
-贴贴   |  你   |`void`  | 好耶xwx
-问技术 |  技术  |`string`| 只要不是太无脑的问题基本都可以从咱这里获得答案，咱很喜欢这样的技术交流
-推歌  |  谱面  | `void` | 大部分音游曲都能推
-写题   |  题    |`string`| 偶尔可以看看作业里面的毒瘤题，就当是写自己的作业题了
-求安慰 |  你    |`string`| 习惯了...
-联动   |您的游戏|`bool`| 曲库扩容机会 += 1
-写谱   | 音乐   | `Chart` | 对引擎核心更感兴趣，有时就懒得写哈哈哈。更有可能让给谱师写（不过谱师也不一定接就是了）
-催更   | 需求   |`void`  | 放鸽子🕊️...咕咕~ 不过说不定感兴趣就真整了 
+## 🚀 Featured Projects
 
-    嗯...希望帮助我们的开发嘛 看这里喔 
-    静态类 `T_mas.Support` 方法（产生的价值按照已从低到高排序）：
-    
-方法名 | 参数名 | 返回值 | 解释
-:------: |:-----: |:-----: | ------------------------
-提供答案 |  作业   |`void`  | 我的很多编程作业是无效且无聊的，您为我们的开发节省了我的作业时间！保证不提交相同的代码（会改的看不出来）
-报告bug |  bug    |`void`  | 很感谢您发现的 bug，我们会加入 To-do list 里面，然后放鸽子
-给文档  | 文档    | `void` | 我们的很多问题都没有优质的文档或资料，因为我们用的库比较冷 (Monogame Desktop OpenGL)。您可给的文档不限于 monogame。
-给捐款  | 款      | `string`| "感谢您为 UFRPG 捐赠的 %.2f 元 ~~，我们将继续放鸽子~~"
-投稿歌曲 | 音乐   | `void` | 我们这边屯了很多歌，不过还是希望能有一些高质量投稿
-commit  | 代码   | `void` | 十分感谢您为 UFRPG 做的贡献
-拉出去转 | 你     | `EventHandler` | 一直没啥人陪咱...有人带咱出去嘛qwq
-涓€涓壙璇� | 鎵胯 | `鐖变綘鍟�`| `?` | [Anomaly](#一个幻想)
+### 🌊 Tile Water – 2D Shallow Water Equation + Forward Euler
+[![Video](https://img.shields.io/badge/Demo-Video-red?logo=youtube)](https://www.bilibili.com/video/your_video_link)  
+> 基于 OpenGL 计算着色器，分块懒加载，实时模拟无限地形水波反射。
 
-### 一个幻想
-启弊适蝌适蝌适蝌零赉证炒启挞蒺履奴舁磕溯足笆撺颐适探启涵启涵苜牝启瘗苜牝启瘗蕖其舸颛证贤践娶证崃闶哨掣励证顶址池抡邝适庠适援适庠适探稃只抡邝证溯证崃皮绞撺颐适探抡娶适羞适绞适学适棍指氍启瘗蕖其掣笆践饼撺颐适探启涵启弊适蝌适蝌适蝌抡邝证崃豳分掣笆践饼址池柢艰馁舯启瘗==
+### 🏔️ Mount on Sea – Adaptive Ray Marching + Fresnel Approximation  
+[![ShaderToy](https://img.shields.io/badge/ShaderToy-View-000000?logo=shadertoy)](https://www.shadertoy.com/view/XXtcDf)
+> GLSL 全屏渲染，基于噪声的 SDF 地形，BRDF + 菲涅尔近似，模拟海洋与山脉。
 
-<!---
-Undertale-T-mas/Undertale-T-mas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎵 Rhythm Recall – 独立音乐游戏  
+[![GameJolt](https://img.shields.io/badge/GameJolt-Play-000000?logo=gamejolt)](https://gamejolt.com/games/rhythmrecall/707354)
+> 负责核心玩法、渲染管线、粒子系统。**日本下载量破万**，低端设备稳定 125 FPS。
+
+---
+
+## 🏅 Awards (Selected)
+
+- 🥈 **ICPC EC Final 2024 – Silver Medal** (ACM-ICPC Asia East Continent)
+- 🥇 **CCPC National Invitational (Shandong) 2024 – Gold**
+- 🥈 **CCPC Chongqing 2024 – Silver**
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+Languages:  C/C++ · C# · GLSL/HLSL · Python  
+Graphics:   Ray Marching · BRDF · Compute Shader · Fluid Simulation  
+Tools:      Git · Visual Studio · NSight · Unity · ShaderToy  
+Interests:  Realtime Graphics · High-performance Computing
+```
+
+---
+
+## 📫 How to reach me
+
+- 📧 Email: t-mas@foxmail.com
+- 💬 QQ: 480642510
+- 📱 Phone: 18770002770
+- 🌐 GitHub: [github.com/Undertale-T-mas](https://github.com/Undertale-T-mas)
+
+---
+
+*“Code the waves, render the mountains.”*
+```
