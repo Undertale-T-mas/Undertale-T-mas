@@ -59,4 +59,3 @@ Interests:  Realtime Graphics · High-performance Computing
 ---
 
 *“Code the waves, render the mountains.”*
-```
