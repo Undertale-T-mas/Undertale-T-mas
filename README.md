@@ -10,14 +10,14 @@
 ## 🔭 I’m currently working on
 
 - **浅水方程流体模拟** – OpenGL Compute Shader, 实时水波动画  
-- **CAD 几何管线设计** – 嵌套二分法 & 相贯线处理 (科研项目)  
+- **CAD 几何管线设计** – 嵌套二分法 & 相贯线处理 
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌊 Tile Water – 2D Shallow Water Equation + Forward Euler
-[![Video](https://img.shields.io/badge/Demo-Video-red?logo=youtube)](https://www.bilibili.com/video/your_video_link)  
+[![Video](https://img.shields.io/badge/Demo-Video-red?logo=youtube)](https://www.bilibili.com/video/BV1Z2Me67E5Q/)  
 > 基于 OpenGL 计算着色器，分块懒加载，实时模拟无限地形水波反射。
 
 ### 🏔️ Mount on Sea – Adaptive Ray Marching + Fresnel Approximation  
